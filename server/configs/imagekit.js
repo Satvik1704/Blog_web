@@ -1,4 +1,4 @@
-import ImageKit from "imagekit";
+import ImageKit from "ImageKit.js";
 
 
 var imagekit = new ImageKit({
